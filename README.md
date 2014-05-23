@@ -65,34 +65,3 @@ https://github.com/component/guide
 Community-driven guide to using Component  
 
 Learn how to write component-based code for the browser using Component.io.
-
-## Workshop Structure
-
-### Introduction
-
-* What is Component
-* How to write code in components
-* How it fits in with Web Components
-* Overview of the session
-* Discuss the goals
-
-### Level 1 - The Basics
-
-**Goal**: Understand what a component is, how it's different to npm. Know how to create one and put it on Github.
-
-* Create a basic component with HTML, CSS, JS
-* Put it up on Github
-* About CommonJS
-* About structural styling
-* Writing CSS as components
-* Requiring templates
-* Makefiles
-
-### Level 2 - Structuring an Application
-
-**Goal**: Know how to integrate component into an app
-
-* Create a boot component that requires the previous one
-* Where to find components
-* Require the components from other groups
-* Create a local component for styles
