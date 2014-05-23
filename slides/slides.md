@@ -15,7 +15,7 @@ theme: segmentio/cleaver-theme
 
 ### What you'll need
 
-* npm install -g component@~1
+* npm install --registry=http://npm.campjs -g component@~1
 * http://github.com/segmentio/campjs-workshop
 
 --
