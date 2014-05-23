@@ -15,7 +15,7 @@ theme: segmentio/cleaver-theme
 
 ### What you'll need
 
-* npm install -g component@0.19.9
+* npm install -g component@~1
 * http://github.com/segmentio/campjs-workshop
 
 --
@@ -24,17 +24,17 @@ theme: segmentio/cleaver-theme
 
 * What are components?
 * Intro to component(1)
-* **Challenge 1** - 15 minutes
-* **Challenge 2** - 10 minutes
-* **Challenge 3** - 45 minutes
+* **Challenge 1** - 30 minutes
+* **Challenge 2** - 30 minutes
 
 --
 
 ### What are components?
 
-* HTML+CSS+JS
+* HTML + CSS + JS + Assets
 * Modular chunks of functionality
 * Encapsulated
+* Builder.js
 * Web components
 
 --
@@ -49,32 +49,10 @@ theme: segmentio/cleaver-theme
 
 --
 
-# Challenge 1
+# Level 1
 ## Building a simple component
 
 --
 
-# Goals
-
-* Understand what Component is and how it's different to npm
-* Know how to write a component.json file
-* Know how to write JavaScript in CommonJS-style
-* Know how to publish to Github
-
---
-
-# Challenge 2
-## Building a complex component
-
---
-
-# Goals
-
-* Know how to add CSS to a component
-* Know how to require HTML templates
-* Know how to find components on Github
-
---
-
-# Challenge 3
+# Level 2
 ## Structuring an application

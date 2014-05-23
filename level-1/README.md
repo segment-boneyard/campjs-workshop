@@ -189,4 +189,4 @@ See the **Advanced Solution** to see this working.
 
 ### Challenge
 
-* Using `component/notification` create a notification whenever the form is submitted with the current text field value, then clear the field.
+Using `component/notification` create a notification whenever the form is submitted with the current text field value, then clear the field.

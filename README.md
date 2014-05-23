@@ -88,11 +88,7 @@ Learn how to write component-based code for the browser using Component.io.
 * Requiring templates
 * Makefiles
 
-### Level 2 - Writing Components
-
-**Goal**: Understand how to write good component-based JS and CSS. Know where to find new components to use in projects. 
-
-### Level 3 - Structuring an Application
+### Level 2 - Structuring an Application
 
 **Goal**: Know how to integrate component into an app
 
@@ -100,7 +96,3 @@ Learn how to write component-based code for the browser using Component.io.
 * Where to find components
 * Require the components from other groups
 * Create a local component for styles
-
-### Level 4 - Advanced
-
-**Goal**: Understand how to implement Component into larger apps. Create a custom builder.
