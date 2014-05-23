@@ -1,0 +1,72 @@
+body {
+  padding: 50px;
+  background: #efefef;
+}
+
+textarea {
+  border: 1px solid #ccc;
+  width: 100%;
+  min-height: 100px;
+  padding: 20px;
+  border-radius: 3px;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+select {
+  width: 100%;
+}
+
+button {
+  border: 0;
+  background: #0090CC;
+  line-height: 1;
+  color: #fff;
+  padding: 15px 30px;
+  width: 100%;
+  text-transform: uppercase;
+  border-radius: 3px;
+  font-size: 14px;
+  letter-spacing: 0.04em;
+  font-weight: 500;
+}
+
+button:focus {
+  outline: none;
+}
+
+@-webkit-keyframes slideInRight {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(2000px);
+    transform: translateX(2000px);
+  }
+
+  100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInRight {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    transform: translateX(100%);
+  }
+
+  100% {
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0);
+  }
+}
+
+.notification {
+  border-radius: 5px;
+  -wekbit-animation: slideInRight .5s ease-in-out;
+  animation: slideInRight .5s ease-in-out;
+}

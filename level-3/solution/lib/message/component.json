@@ -1,0 +1,10 @@
+{
+  "name": "message",
+  "description": "Single chat message",
+  "scripts": ["index.js"],
+  "styles": ["index.css"],
+  "templates": ["index.html"],
+  "dependencies": {
+    "ripplejs/ripple": "*"
+  }
+}

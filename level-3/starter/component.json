@@ -1,0 +1,12 @@
+{
+  "name": "page",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "styles.css"
+  ],
+  "dependencies": {
+    "necolas/normalize.css": "*"
+  }
+}

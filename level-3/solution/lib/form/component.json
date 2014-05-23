@@ -1,0 +1,16 @@
+{
+  "name": "form",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "index.css"
+  ],
+  "templates": [
+    "form.html"
+  ],
+  "dependencies": {
+    "component/domify": "^1.2.2",
+    "component/emitter": "^1.1.2"
+  }
+}

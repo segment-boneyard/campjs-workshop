@@ -1,0 +1,25 @@
+{
+  "name": "notification",
+  "description": "Notification component",
+  "version": "0.0.5",
+  "keywords": [
+    "notify",
+    "notification",
+    "ui",
+    "growl"
+  ],
+  "dependencies": {
+    "component/dom": "*",
+    "component/emitter": "1.0.1",
+    "segmentio/on-body": "*"
+  },
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "notification.css"
+  ],
+  "license": "MIT",
+  "repository": "component/notification"
+}

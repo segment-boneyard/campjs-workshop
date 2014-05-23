@@ -1,0 +1,20 @@
+{
+  "name": "page",
+  "local": [
+    "form",
+    "log",
+    "message"
+  ],
+  "paths": [
+    "lib"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "styles.css"
+  ],
+  "dependencies": {
+    "necolas/normalize.css": "*"
+  }
+}

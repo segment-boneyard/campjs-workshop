@@ -1,0 +1,9 @@
+{
+  "name": "log",
+  "scripts": ["index.js"],
+  "styles": ["index.css"],
+  "locals": ["message"],
+  "dependencies": {
+    "component/domify": "*"
+  }
+}

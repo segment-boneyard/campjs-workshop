@@ -1,0 +1,9 @@
+.Message {
+  padding: 10px 0;
+  font-size: 14px;
+  border-bottom: 1px solid #eee;
+}
+
+.Message-author {
+  font-weight: bold;
+}

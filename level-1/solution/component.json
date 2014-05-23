@@ -1,0 +1,19 @@
+{
+  "name": "form",
+  "scripts": [
+    "index.js",
+    "lib/form/index.js"
+  ],
+  "styles": [
+    "styles.css",
+    "lib/form/index.css"
+  ],
+  "templates": [
+    "lib/form/form.html"
+  ],
+  "dependencies": {
+    "necolas/normalize.css": "*",
+    "component/domify": "^1.2.2",
+    "component/emitter": "^1.1.2"
+  }
+}
